@@ -1,0 +1,12 @@
+body {
+    direction: ltr;
+}
+
+.slider-block,
+.slider-block .row {
+    direction: ltr;
+}
+
+form {
+    direction: ltr;
+}
